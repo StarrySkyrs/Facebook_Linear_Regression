@@ -1,5 +1,6 @@
 # Facebook Linear Regression
 
+Built single and multiple (Additive and Interaction) Linear Regression Models on the Facebook dataset to derive inferences or conclusions with the hypothesis testing. When the sample size is small, used bootstrapping to approximate the sampling distribution needed to assess the uncertainty of our estimated coefficients and make inferences. The models are deployed using `ggplot` and `plotly`.
 
 ## The Facebook Dataset
 
